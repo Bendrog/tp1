@@ -1,16 +1,20 @@
 # Answers
 
-Nom : 
-Prénom : 
+Nom : Drogou 
+Prénom : Benoit
 
 # 1.
 Qu'est-ce qu'une instance EC2 ?
+Elastic Compute Cloud (EC2) est utilisé par AWS pour héberger des serveurs virtuels.
 
 # 2.
 Qu'est-ce qu'un VPC ?
+Un Virtual Private Cloud est présent dans un environnement de cloud public. Il délivre une connexion indépendante et sécurisée entre les utilisateurs et leurs instances. Par exemple, le produit Amazon Virtual Private Cloud (AVPC) permet aux utilisateurs d'obtenir une section du réseau AWS.
 
 # 3.
 A quoi sert un NSG ?
+Un Network Security Group
+Un Network Security Group joue le rôle d'un firewall pour les Machines Virtuelles. Il est composé des règles qui permettent de déterminer les communications autorisées entre la VM et internet. Tant en sortie ou en entrée de la VM
 
 # 4.
 Quelles sont les 5 propriétés désirables du cloud ?
