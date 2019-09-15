@@ -11,7 +11,7 @@ Prénom : Benoit
 # 2.
 **Qu'est-ce qu'un VPC ?**
 
-    Un Virtual Private Cloud est présent dans un environnement de cloud public. Il délivre une connexion indépendante et sécurisée entre les utilisateurs et leurs instances. Par exemple, le produit Amazon Virtual Private Cloud (AVPC) permet aux utilisateurs d'obtenir une section du réseau AWS.
+> Un Virtual Private Cloud est présent dans un environnement de cloud public. Il délivre une connexion indépendante et sécurisée entre les utilisateurs et leurs instances. Par exemple, le produit Amazon Virtual Private Cloud (AVPC) permet aux utilisateurs d'obtenir une section du réseau AWS.
 
 # 3.
 **A quoi sert un NSG ?**
