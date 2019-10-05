@@ -21,11 +21,11 @@ Prénom : Benoit
 # 4.
 **Quelles sont les 5 propriétés désirables du cloud ?**
 
-1. **_Le paiement à l'usage_**: On ne paie que ce que l'on consomme.
-2. **_Elastique_**: Le cloud offre la possibilité d'adapter le nombre de serveur selon la demande. Ce qui permet une scalabilitée rapide.
-3. **_Ouvert_**: Disponible avec une conection internet, ouvert sur le monde.
-4. **_Mutaliser_**: Les services de coud proposent un ensemble de ressources dématéralisées accessibles par tous les utilisateurs. Elles sont paratgées. De ce fait, les entreprises ne sont plus obligées d'investir dans du hardware et d'en assurer la maintenance.
-5. **_Libre-Service_** : Beaucoup de stack, d'outils open-sources. 
+> 1. **_Le paiement à l'usage_**: On ne paie que ce que l'on consomme.
+> 2. **_Elastique_**: Le cloud offre la possibilité d'adapter le nombre de serveur selon la demande. Ce qui permet une scalabilitée rapide.
+> 3. **_Ouvert_**: Disponible avec une conection internet, ouvert sur le monde.
+> 4. **_Mutaliser_**: Les services de coud proposent un ensemble de ressources dématéralisées accessibles par tous les utilisateurs. Elles sont paratgées. De ce fait, les entreprises ne sont plus obligées d'investir dans du hardware et d'en assurer la maintenance.
+> 5. **_Libre-Service_** : Beaucoup de stack, d'outils open-sources. 
 
 # 5.
 **Qu'est-ce que l'A/B Testing ?**
