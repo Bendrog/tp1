@@ -34,6 +34,7 @@ Prénom : Benoit
 
 # 6.
 **Comment programmer le cloud ?**
+> L'Infrastructure as Code (IaC) est une solution qui permet de gérer la structure des machines, disposées dans la cloud, à partir de la lecture d'un "simple" fichier. Que ce soit le choix de l'OS de la machine ou les différentes application à y installer. Un gain de temps comparer à faire ce process manuellement en ligne de commande.
 
 # 7.
 **Quelle est la technique pour faire un déploiement sans interruption de service ?**
@@ -47,6 +48,8 @@ Prénom : Benoit
 
 # 9.
 **Comment changer de taille de machine virtuelle ?**
+> Il y a une interface graphique sur le provider, Amazon Web Service par exemple. Il suiffit de manuellement augmenter la taille de sa Machine Virtuelle et automatiquement l'infrastructure est modifiée (et le billing aussi .... $$).
+On va dans les paramètres de la machine et on augmente simplement la taille que l'on souhaite attribuer. le cloud se charge du reste
 
 # 10.
 **Qu'est-ce que le Blue/Green deployment ?**
