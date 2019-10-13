@@ -23,14 +23,14 @@ Prénom : Benoit
 
 > 1. **_Le paiement à l'usage_**: On ne paie que ce que l'on consomme.
 > 2. **_Elastique_**: Le cloud offre la possibilité d'adapter le nombre de serveur selon la demande. Ce qui permet une scalabilitée rapide.
-> 3. **_Ouvert_**: Disponible avec une conection internet, ouvert sur le monde.
+> 3. **_Ouvert_**: Disponible avec une connection internet, ouvert sur le monde.
 > 4. **_Mutaliser_**: Les services de coud proposent un ensemble de ressources dématéralisées accessibles par tous les utilisateurs. Elles sont paratgées. De ce fait, les entreprises ne sont plus obligées d'investir dans du hardware et d'en assurer la maintenance.
 > 5. **_Libre-Service_** : Beaucoup de stack, d'outils open-sources. 
 
 # 5.
 **Qu'est-ce que l'A/B Testing ?**
 
-> L' A/B testing est une méthode, souvent utilisée dans le marketing visant à étudier l'action d'un utilisateurs afin d'améliorer l'UX d'un produit. Le principe étant de divier une population en 2 catégories A et B (Il faut que la séparation soit faite le plus aléatoirement possible, sans pattern entre les 2 groupe: ages, sexe, corps de métiers etc...). Puis assigner un visuel légerement différent pour les 2 groupes. En analysant les comportement des utilisateurs on peut déterminer laquelle des versions du produit est la plus efficace pour un comportement donné. 
+> L' A/B testing est une méthode, souvent utilisée dans le marketing visant à étudier l'action d'un utilisateurs afin d'améliorer l'UX d'un produit. Le principe étant de diviser une population en 2 catégories A et B (Il faut que la séparation soit faite le plus aléatoirement possible, sans pattern entre les 2 groupe: ages, sexe, corps de métiers etc...). Puis, par exemple, assigner un visuel légèrement différent pour les 2 groupes. En analysant les comportement des utilisateurs on peut déterminer laquelle des versions du produit est la plus efficace pour un comportement donné. 
 
 # 6.
 **Comment programmer le cloud ?**
@@ -39,7 +39,7 @@ Prénom : Benoit
 # 7.
 **Quelle est la technique pour faire un déploiement sans interruption de service ?**
 
-> Le Zero Downtime Deployment (ZDD) permet de déployer une nouvelle version d'un système tout en sans intérompre le service. Le Blue/Green Deployment, le Canary Release et le Dark Launch sont différente variantes exploitant cette technique
+> Le Zero Downtime Deployment (ZDD) permet de déployer une nouvelle version d'un système, le tout en sans intérompre le service. Le Blue/Green Deployment, le Canary Release et le Dark Launch sont différente variantes exploitant cette technique
 
 # 8.
 **Qu'est-ce que le Canary release ?**
@@ -48,8 +48,8 @@ Prénom : Benoit
 
 # 9.
 **Comment changer de taille de machine virtuelle ?**
-> Il y a une interface graphique sur le provider, Amazon Web Service par exemple. Il suiffit de manuellement augmenter la taille de sa Machine Virtuelle et automatiquement l'infrastructure est modifiée (et le billing aussi .... $$).
-On va dans les paramètres de la machine et on augmente simplement la taille que l'on souhaite attribuer. le cloud se charge du reste
+> Il y a une interface graphique sur le provider, Amazon Web Service par exemple. Il suffit de manuellement augmenter la taille de sa Machine Virtuelle et automatiquement l'infrastructure est modifiée (et le billing aussi .... $$).
+On va dans les paramètres de la machine et on augmente simplement la taille que l'on souhaite attribuer. Le cloud se charge du reste
 
 # 10.
 **Qu'est-ce que le Blue/Green deployment ?**
